@@ -1,5 +1,5 @@
 {
-  "name": "voxpupuli-posix_acl",
+  "name": "vandelin586-posixacl",
   "version": "0.0.3",
   "author": "https://github.com/voxpupuli/puppet-posix_acl/graphs/contributors",
   "summary": "Puppet ACL Module",
